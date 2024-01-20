@@ -1,4 +1,5 @@
-<center><b>TERMUX COMMAND</b></center>
+<center><h1>TERMUX COMMAND</h1></center>
+
 pkg update
 
 pkg upgrade
@@ -15,7 +16,7 @@ cd CYBER_TASIK
 
 python LACAK.py
 
-<center><b>LINUX COMMAND</b></center>
+<center><h1>LINUX COMMAND</h1></center>
 
 apt update 
 
